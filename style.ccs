@@ -1,0 +1,22 @@
+body{ 
+background-color: black; 
+color: silver; 
+font-family: Bradley Hand, cursive; 
+}
+h1{ 
+text-align: center; 
+}
+.golovna{
+letter-spacing: 15px;
+box-shadow: 4px 2px navy, 8px 4px slateblue, 12px 6px turquoise;
+}
+.Trapper{
+height: 700px;
+}
+.History{
+text-align: center;
+}
+.legion{
+border: 1px solid rgb(66, 49, 119);
+border-radius: 10px;
+}
